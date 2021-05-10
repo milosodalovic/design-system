@@ -13,6 +13,11 @@
     "release": "auto shipit --base-branch=master"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.3",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
     "@vue/composition-api": "^1.0.0-rc.8",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
