@@ -1,0 +1,10 @@
+@import "~tailwindcss/tailwind.css";
+
+html {
+  font-size: 10px;
+}
+
+@layer components {
+  @import "styles/icon";
+  @import "components/BaseButton/button";
+}
