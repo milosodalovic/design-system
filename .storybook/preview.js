@@ -1,3 +1,4 @@
+import "tailwindcss/tailwind.css"
 import Vue from 'vue'
 import VueCompositionAPI from '@vue/composition-api'
 import FontAwesomeIcon from '../src/modules/font-awesome'
