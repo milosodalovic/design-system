@@ -1,4 +1,4 @@
-import Vue from 'vue'
+import '@fortawesome/fontawesome-svg-core/styles.css'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { library, config } from '@fortawesome/fontawesome-svg-core'
 import {
